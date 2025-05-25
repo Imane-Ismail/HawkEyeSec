@@ -37,13 +37,13 @@ Threat intelligence contributions to Sophos News covering infostealer malware an
 ## 📬 Contact & Collaboration
 
 - 📧 Email: [imane.fahmy@gmail.com]
-- 🔗 LinkedIn: (https://www.linkedin.com/in/imane-ismail-a1898017a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/imane-ismail-a1898017a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
 ## 🌐 Visit my website
 
-👉 [HawkEyeSec]((https://hawkeyesec.org))
+👉 [HawkEyeSec](https://hawkeyesec.org)
 
 ---
 
