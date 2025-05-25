@@ -1,0 +1,29 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  color: #1f1f1f;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+header.hero {
+  background: #171d25;
+  color: #fff;
+  text-align: center;
+  padding: 3em 1em;
+}
+section {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+a.btn {
+  background: #ff4f4f;
+  color: white;
+  padding: 0.75em 1.5em;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a {
+  color: #0077cc;
+}
