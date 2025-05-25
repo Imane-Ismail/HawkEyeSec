@@ -43,9 +43,7 @@ Threat intelligence contributions to Sophos News covering infostealer malware an
 
 ## 🌐 Visit my website
 
-👉 [HawkEyeSec](https://hawk-eye-sec.com)
-
-Or connect your own domain (e.g. `log-eye-sec.com`) via GitHub Pages and Cloudflare.
+👉 [HawkEyeSec]((https://hawkeyesec.org))
 
 ---
 
