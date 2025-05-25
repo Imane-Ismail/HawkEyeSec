@@ -1,6 +1,6 @@
 # 🦅 HawkEyeSec
 
-Welcome to **HawkEyeSec**, a cybersecurity portfolio site by [Imane Ismail](https://www.linkedin.com/in/imane-ismail), showcasing open-source tools, DFIR research, threat intelligence insights, and personal reflections on working in the front lines of security operations.
+Welcome to **HawkEyeSec**, a cybersecurity portfolio site by [Imane Ismail](https://www.linkedin.com/in/imane-ismail-a1898017a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), showcasing open-source tools, DFIR research, threat intelligence insights, and personal reflections on working in the front lines of security operations.
 
 ---
 
