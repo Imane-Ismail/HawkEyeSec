@@ -50,4 +50,4 @@ Threat intelligence contributions to Sophos News covering infostealer malware an
 
 ## 📜 License
 
-This project and its contents are shared under the [MIT License](LICENSE).
+This project and its contents have proprietary and non-commercial License. Refer to the LICENSE for further details.
